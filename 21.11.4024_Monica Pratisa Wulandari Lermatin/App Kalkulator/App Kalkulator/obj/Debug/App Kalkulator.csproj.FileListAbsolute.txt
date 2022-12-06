@@ -1,0 +1,12 @@
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\bin\Debug\App Kalkulator.exe.config
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\bin\Debug\App Kalkulator.exe
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\bin\Debug\App Kalkulator.pdb
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\obj\Debug\App Kalkulator.csproj.AssemblyReference.cache
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\obj\Debug\App Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\obj\Debug\App_Kalkulator.Induk_Kalkulator.resources
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\obj\Debug\App_Kalkulator.OperasiHitung_Anak.resources
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\obj\Debug\App_Kalkulator.Properties.Resources.resources
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\obj\Debug\App Kalkulator.csproj.GenerateResource.cache
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\obj\Debug\App Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\obj\Debug\App Kalkulator.exe
+C:\Users\HP\Videos\21.11.4010 Uji\Tugas Pemrog Lanjut\Mon 21.11.4024\App Kalkulator\App Kalkulator\obj\Debug\App Kalkulator.pdb
